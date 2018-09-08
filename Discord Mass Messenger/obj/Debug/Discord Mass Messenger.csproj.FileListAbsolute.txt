@@ -1,0 +1,11 @@
+c:\users\callum smith\source\repos\Discord Mass Messenger\Discord Mass Messenger\bin\Debug\Discord Mass Messenger.exe.config
+c:\users\callum smith\source\repos\Discord Mass Messenger\Discord Mass Messenger\bin\Debug\Discord Mass Messenger.exe
+c:\users\callum smith\source\repos\Discord Mass Messenger\Discord Mass Messenger\bin\Debug\Discord Mass Messenger.pdb
+c:\users\callum smith\source\repos\Discord Mass Messenger\Discord Mass Messenger\bin\Debug\RestSharp.dll
+c:\users\callum smith\source\repos\Discord Mass Messenger\Discord Mass Messenger\obj\Debug\Discord Mass Messenger.csprojAssemblyReference.cache
+c:\users\callum smith\source\repos\Discord Mass Messenger\Discord Mass Messenger\obj\Debug\Discord Mass Messenger.csproj.CoreCompileInputs.cache
+c:\users\callum smith\source\repos\Discord Mass Messenger\Discord Mass Messenger\obj\Debug\Discord Mass Messenger.csproj.CopyComplete
+c:\users\callum smith\source\repos\Discord Mass Messenger\Discord Mass Messenger\obj\Debug\Discord Mass Messenger.exe
+c:\users\callum smith\source\repos\Discord Mass Messenger\Discord Mass Messenger\obj\Debug\Discord Mass Messenger.pdb
+c:\Users\Callum Smith\source\repos\Discord Mass Messenger\Discord Mass Messenger\bin\Debug\Newtonsoft.Json.dll
+c:\Users\Callum Smith\source\repos\Discord Mass Messenger\Discord Mass Messenger\bin\Debug\Newtonsoft.Json.xml
